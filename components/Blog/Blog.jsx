@@ -1,7 +1,7 @@
 import React, { useContext } from 'react'
 import styles from '../Blog/Blog.module.css'
 import Link from 'next/link'
-import user from '../../public/images/user.png'
+import user from '../../public/images/User.png'
 import ThemeContext from '../ThemeContext';
 
 export default function Blog({ className, title, author, date, content }) {

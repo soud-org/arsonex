@@ -10,12 +10,14 @@
   },
   "dependencies": {
     "apexcharts": "^3.51.0",
-    "eslint": "8.47.0",
-    "eslint-config-next": "13.4.16",
-    "next": "13.4.16",
-    "react": "^18.2.0",
     "react-apexcharts": "^1.4.1",
-    "react-dom": "^18.2.0",
-    "recharts": "^2.8.0"
+    "recharts": "^2.8.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "next": "14.2.5"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5"
   }
 }
